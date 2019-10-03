@@ -1,0 +1,54 @@
+﻿{
+  "NhanVien": [
+    {
+      "HoTen": "Phan Thị Hoa",
+      "NickName": "Hoapt",
+      "TrinhDo": "Kỹ sư CNTT",
+      "ChucDanhCongViec": "Tổ trưởng",
+      "BacLuong": "4/8",
+      "NoiDungCongViec": "Vận hành các hệ thống thuộc lĩnh vực Kiểm tra giám sát mua bán điện, đo ghi từ xa",
+      "CongViecThucHien": "Theo dõi vận hành,sao lưu CSDL do nhóm phụ trách.",
+      "TyLePhanTram": 0.7
+    },
+    {
+      "HoTen": "Lê Văn Được",
+      "NickName": "Duoclv",
+      "TrinhDo": "Kỹ sư CNTT",
+      "ChucDanhCongViec": "Nhân viên Lập trình,Triển khai,Đào tạo,Vận hành CSDL,Dịch vụ",
+      "BacLuong": "2/8",
+      "NoiDungCongViec": "Vận hành các hệ thống thuộc lĩnh vực Kiểm tra giám sát mua bán điện, đo ghi từ xa",
+      "CongViecThucHien": "Theo dõi vận hành,sao lưu CSDL do nhóm phụ trách.",
+      "TyLePhanTram": 0.5
+    },
+    {
+      "HoTen": "Huỳnh Thị Tố My",
+      "NickName": "Myhtt",
+      "TrinhDo": "Kỹ sư CNTT",
+      "ChucDanhCongViec": "Nhân viên Lập trình,Triển khai,Đào tạo,Vận hành CSDL,Dịch vụ",
+      "BacLuong": "2/8",
+      "NoiDungCongViec": "Theo dõi vận hành, kiểm tra kết nối server, kiểm tra backup theo quy trinh 22 các hệ thống HRMS, Quản lý đầu tư xây dựng EVN.",
+      "CongViecThucHien": "Theo dõi vận hành : Kiểm tra kết nối server, kiểm tra backup theo quy trình 22.",
+      "TyLePhanTram": 0.3
+    }
+  ],
+  "Quy": [
+    {
+      "Thang": "01/2019",
+      "NgayCong": 22,
+      "NgayBatDau": "01/01/2019",
+      "NgayKetThuc": "31/01/2019"
+    },
+    {
+      "Thang": "02/2019",
+      "NgayCong": 15,
+      "NgayBatDau": "01/02/2019",
+      "NgayKetThuc": "28/02/2019"
+    },
+    {
+      "Thang": "03/2019",
+      "NgayCong": 21,
+      "NgayBatDau": "01/03/2019",
+      "NgayKetThuc": "31/03/2019"
+    }
+  ]
+}

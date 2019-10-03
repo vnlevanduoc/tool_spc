@@ -1,0 +1,14 @@
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\File\data.json
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\File\ngay_nghi_trong_nam.json
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\File\Template.docx
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\Tool_ATD.exe.config
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\Tool_ATD.exe
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\Tool_ATD.pdb
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\DocumentFormat.OpenXml.dll
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\Newtonsoft.Json.dll
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\DocumentFormat.OpenXml.xml
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\Newtonsoft.Json.xml
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\obj\Debug\Tool_ATD.csprojAssemblyReference.cache
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\obj\Debug\Tool_ATD.csproj.CopyComplete
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\obj\Debug\Tool_ATD.exe
+E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\obj\Debug\Tool_ATD.pdb

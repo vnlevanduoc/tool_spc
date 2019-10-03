@@ -1,0 +1,995 @@
+﻿{
+  "NhanVien": [
+    {
+      "Id": 1,
+      "Username": "duoclv.it",
+      "Password": "duoclv.it",
+      "Email": "duoclv.it@evnspc.vn"
+    },
+    {
+      "Id": 2,
+      "Username": "hoapt.it",
+      "Password": "hoapt.it",
+      "Email": "hoapt.it@evnspc.vn"
+    }
+  ],
+  "Project": [
+    {
+      "Id": 1,
+      "Name": "CNPM-KT-DVKH: Khai thác dữ liệu đo xa (MDAS) (PMKTDVMDAS)"
+    },
+    {
+      "Id": 2,
+      "Name": "CNPM-KT-DVKH: Kiểm tra hệ thống đo đếm Android (PMKTDVADRD)"
+    },
+    {
+      "Id": 3,
+      "Name": "CNPM-KT-DVKH: NCPT - Nghiên cứu phụ tải (PMKTDVNCPT)"
+    }
+  ],
+  "IssueType": [
+    {
+      "Id": 1,
+      "Name": "Lỗi phần mềm"
+    },
+    {
+      "Id": 2,
+      "Name": "Yêu cầu chỉnh sửa, cải tiến chức năng"
+    },
+    {
+      "Id": 3,
+      "Name": "Yêu cầu thêm mới chức năng"
+    },
+    {
+      "Id": 4,
+      "Name": "HDSD/ Giải đáp thắc mắc"
+    },
+    {
+      "Id": 5,
+      "Name": "Hỗ trợ xử lý sự cố"
+    },
+    {
+      "Id": 6,
+      "Name": "Lấy số liệu báo cáo"
+    },
+    {
+      "Id": 7,
+      "Name": "Công việc khác"
+    }
+  ],
+  "DonVi": [
+    {
+      "Id": 10020,
+      "Name": "F02F01 - CTĐL An Giang"
+    },
+    {
+      "Id": 10023,
+      "Name": "F02F02 - CTĐL Bà Rịa Vũng Tàu"
+    },
+    {
+      "Id": 10027,
+      "Name": "F02F03 - CTĐL Bạc Liêu"
+    },
+    {
+      "Id": 10017,
+      "Name": "F02F04 - CTĐL Bến Tre"
+    },
+    {
+      "Id": 10010,
+      "Name": "F02F05 - CTĐL Bình Thuận"
+    },
+    {
+      "Id": 10012,
+      "Name": "F02F06 - CTĐL Bình Dương"
+    },
+    {
+      "Id": 10009,
+      "Name": "F02F07 - CTĐL Bình Phước"
+    },
+    {
+      "Id": 10022,
+      "Name": "F02F08 - CTĐL Cà Mau"
+    },
+    {
+      "Id": 10019,
+      "Name": "F02F09 - CTĐL Cần Thơ"
+    },
+    {
+      "Id": 10015,
+      "Name": "F02F10 - CTĐL Đồng Tháp"
+    },
+    {
+      "Id": 10021,
+      "Name": "F02F11 - CTĐL Kiên Giang"
+    },
+    {
+      "Id": 10011,
+      "Name": "F02F12 - CTĐL Lâm Đồng"
+    },
+    {
+      "Id": 10014,
+      "Name": "F02F13 - CTĐL Long An"
+    },
+    {
+      "Id": 10026,
+      "Name": "F02F14 - CTĐL Ninh Thuận"
+    },
+    {
+      "Id": 10025,
+      "Name": "F02F15 - CTĐL Sóc Trăng"
+    },
+    {
+      "Id": 10013,
+      "Name": "F02F16 - CTĐL Tây Ninh"
+    },
+    {
+      "Id": 10016,
+      "Name": "F02F17 - CTĐL Tiền Giang"
+    },
+    {
+      "Id": 10024,
+      "Name": "F02F18 - CTĐL Trà Vinh"
+    },
+    {
+      "Id": 10018,
+      "Name": "F02F19 - CTĐL Vĩnh Long"
+    },
+    {
+      "Id": 10028,
+      "Name": "F02F20 - CTĐL Hậu Giang"
+    },
+    {
+      "Id": 10029,
+      "Name": "F07 - CT TNHH MTV ĐL Đồng Nai"
+    }
+  ],
+  "NguoiLienHe": [
+    {
+      "Id": 1,
+      "DonVi": 10020,
+      "HoTen": "Phạm Anh Duy",
+      "DienThoai": "0993966699",
+      "Email": "anhduy66699@gmail.com"
+    },
+    {
+      "Id": 2,
+      "DonVi": 10009,
+      "HoTen": "Nguyễn Thiên Hữu",
+      "DienThoai": "0963668779",
+      "Email": "ktgs.pcbp@gmail.com"
+    },
+    {
+      "Id": 3,
+      "DonVi": 10024,
+      "HoTen": "Phạm Văn Micsol",
+      "DienThoai": "0968838030",
+      "Email": "ktgs.pctv@gmail.com"
+    },
+    {
+      "Id": 4,
+      "DonVi": 10015,
+      "HoTen": "Nguyễn Thanh Tài",
+      "DienThoai": "0949272763",
+      "Email": "thanhtai.p9@gmail.com"
+    },
+    {
+      "Id": 5,
+      "DonVi": 10012,
+      "HoTen": "Nguyễn Thanh Tài",
+      "DienThoai": "0919773366",
+      "Email": "hoanglambinhduong@gmail.com"
+    },
+    {
+      "Id": 6,
+      "DonVi": 10012,
+      "HoTen": "Nguyễn Hoài Nhật",
+      "DienThoai": "0915838957",
+      "Email": "nhatnh.pcbd@gmail.com"
+    },
+    {
+      "Id": 7,
+      "DonVi": 10012,
+      "HoTen": "Quản Thành Tài",
+      "DienThoai": "0834555081",
+      "Email": "thanhtaiebd2112@yahoo.com.vn"
+    },
+    {
+      "Id": 8,
+      "DonVi": 10012,
+      "HoTen": "Trần Thanh Quốc",
+      "DienThoai": "0914397993",
+      "Email": "thanhquocpcbd@gmail.com"
+    },
+    {
+      "Id": 9,
+      "DonVi": 10012,
+      "HoTen": "Lê Đăng Quyết",
+      "DienThoai": "01233839777",
+      "Email": "ledangquyet1981@gmail.com"
+    },
+    {
+      "Id": 10,
+      "DonVi": 10027,
+      "HoTen": "Nguyễn Văn Thái",
+      "DienThoai": "0969555123",
+      "Email": "thainv.pcbl@gmail.com"
+    },
+    {
+      "Id": 11,
+      "DonVi": 10013,
+      "HoTen": "Nguyễn Minh Thành",
+      "DienThoai": "0962522008",
+      "Email": "nmthanh@gmail.com"
+    },
+    {
+      "Id": 12,
+      "DonVi": 10017,
+      "HoTen": "Lê Thanh Trang",
+      "DienThoai": "0916309979",
+      "Email": "lttrang1990@gmail.com"
+    },
+    {
+      "Id": 13,
+      "DonVi": 10029,
+      "HoTen": "Lê Ngọc Đoàn",
+      "DienThoai": "0962371673",
+      "Email": "doanlepcdn@gmail.com"
+    },
+    {
+      "Id": 14,
+      "DonVi": 10018,
+      "HoTen": "Lâm Hà Bích Ngọc",
+      "DienThoai": "0939644234",
+      "Email": "Ngocddvl@gmail.com"
+    },
+    {
+      "Id": 15,
+      "DonVi": 10018,
+      "HoTen": "Nguyễn Thanh Tùng",
+      "DienThoai": "0963646681",
+      "Email": "tungnt.dlto@gmail.com"
+    },
+    {
+      "Id": 16,
+      "DonVi": 10011,
+      "HoTen": "Nguyễn Bá Giang",
+      "DienThoai": "0886701444",
+      "Email": "giangktgsmbd@gmail.com"
+    },
+    {
+      "Id": 17,
+      "DonVi": 10011,
+      "HoTen": "Trần Thiện",
+      "DienThoai": "0919518779",
+      "Email": "tranthienevn@gmail.com"
+    },
+    {
+      "Id": 18,
+      "DonVi": 10021,
+      "HoTen": "Lại Việt Phú",
+      "DienThoai": "0966141718",
+      "Email": "laivietphu@gmail.com"
+    },
+    {
+      "Id": 19,
+      "DonVi": 10025,
+      "HoTen": "Nguyễn Duy Vỹ",
+      "DienThoai": "0918371399",
+      "Email": "ndvyevnst@gmail.com"
+    },
+    {
+      "Id": 20,
+      "DonVi": 10022,
+      "HoTen": "Trần THanh Dũng",
+      "DienThoai": "0912657862",
+      "Email": "tranthdung76@gmail.com"
+    },
+    {
+      "Id": 21,
+      "DonVi": 10016,
+      "HoTen": "Nguyễn Đức Huy",
+      "DienThoai": "0914687799",
+      "Email": "Nguyễn Đức Huy"
+    },
+    {
+      "Id": 22,
+      "DonVi": 10014,
+      "HoTen": "Trần Phú",
+      "DienThoai": "0919592626",
+      "Email": "tranphupcla@gmail.com"
+    },
+    {
+      "Id": 23,
+      "DonVi": 10010,
+      "HoTen": "Lê Văn Tiến",
+      "DienThoai": "0908536546",
+      "Email": "vantien062@yahoo.com"
+    },
+    {
+      "Id": 24,
+      "DonVi": 10026,
+      "HoTen": "Huỳnh Tấn Phi",
+      "DienThoai": "0909617316",
+      "Email": "phiht2000@gmail.com"
+    },
+    {
+      "Id": 25,
+      "DonVi": 10023,
+      "HoTen": "Phạm Thị Ngọc Diệp",
+      "DienThoai": "0962500509",
+      "Email": "ngocdiep.dlbrvt@gmail.com"
+    },
+    {
+      "Id": 26,
+      "DonVi": 10024,
+      "HoTen": "Võ Thành Được",
+      "DienThoai": "0772126559",
+      "Email": "thanhduocpctv@gmail.com"
+    },
+    {
+      "Id": 27,
+      "DonVi": 10012,
+      "HoTen": "Trần Minh Nghĩa",
+      "DienThoai": "0914398199",
+      "Email": "tranminhnghia88@gmail.com"
+    },
+    {
+      "Id": 28,
+      "DonVi": 10012,
+      "HoTen": "Mông Thị Thảo Nguyên",
+      "DienThoai": "0908696220",
+      "Email": "nguyencrm1986@gmail.com"
+    },
+    {
+      "Id": 29,
+      "DonVi": 10012,
+      "HoTen": "Hoàng Đức Phúc",
+      "DienThoai": "0918050313",
+      "Email": "phucduchoang@gmail.com"
+    },
+    {
+      "Id": 30,
+      "DonVi": 10012,
+      "HoTen": "Nguyễn Tấn Lập",
+      "DienThoai": "0919373238",
+      "Email": "laptannguyenbd@gmail.com"
+    },
+    {
+      "Id": 31,
+      "DonVi": 10012,
+      "HoTen": "Phạm Quốc Cường",
+      "DienThoai": "0913130662",
+      "Email": "phamquoccuongdautieng@gmail.com"
+    },
+    {
+      "Id": 32,
+      "DonVi": 10012,
+      "HoTen": "Nguyễn Thanh Sang",
+      "DienThoai": "0914398036",
+      "Email": "sang012120@gmail.com"
+    },
+    {
+      "Id": 33,
+      "DonVi": 10012,
+      "HoTen": "Nguyễn Kỳ Vỹ",
+      "DienThoai": "0962519655",
+      "Email": "vynk1976@gmail.com"
+    },
+    {
+      "Id": 34,
+      "DonVi": 10012,
+      "HoTen": "Nguyễn Ngọc Khanh",
+      "DienThoai": "0913140965",
+      "Email": "ngockhanhdlbd@gmail.com"
+    },
+    {
+      "Id": 35,
+      "DonVi": 10012,
+      "HoTen": "Nguyễn Bảo Toàn",
+      "DienThoai": "0912671010",
+      "Email": "baotoannguyendlbb@gmail.com"
+    },
+    {
+      "Id": 36,
+      "DonVi": 10012,
+      "HoTen": "Bồ Văn Ngân",
+      "DienThoai": "0963864999",
+      "Email": "bovanngan67@gmail.com"
+    },
+    {
+      "Id": 37,
+      "DonVi": 10011,
+      "HoTen": "Trần Minh Tuấn",
+      "DienThoai": "0943976999",
+      "Email": "tranminhtuancaonguyen@gmail.com"
+    },
+    {
+      "Id": 38,
+      "DonVi": 10018,
+      "HoTen": "Nguyễn Duy Phong",
+      "DienThoai": "0907898736",
+      "Email": "phongpcvinhlong@gmail.com"
+    },
+    {
+      "Id": 39,
+      "DonVi": 10018,
+      "HoTen": "Huỳnh Hữu Khánh",
+      "DienThoai": "0907678021",
+      "Email": "khanhhh.dlto@gmail.com"
+    },
+    {
+      "Id": 40,
+      "DonVi": 10018,
+      "HoTen": "Bùi Duy Đông",
+      "DienThoai": "0939736668",
+      "Email": "duydong.pcvl@gmail.com"
+    },
+    {
+      "Id": 41,
+      "DonVi": 10018,
+      "HoTen": "Lê Hoàng Phong",
+      "DienThoai": "0966117682",
+      "Email": "Lhphong88@gmail.com"
+    },
+    {
+      "Id": 42,
+      "DonVi": 10018,
+      "HoTen": "Huỳnh Nhựt Minh",
+      "DienThoai": "0932980353",
+      "Email": "phongkinhdoanhdlvl@gmail.com"
+    },
+    {
+      "Id": 43,
+      "DonVi": 10018,
+      "HoTen": "Lê Vĩnh Thái",
+      "DienThoai": "0907274456",
+      "Email": "thailvpcvl@gmail.com"
+    },
+    {
+      "Id": 44,
+      "DonVi": 10018,
+      "HoTen": "Nguyễn Thành Vinh",
+      "DienThoai": "0931483856",
+      "Email": "nguyenthanhvinh06111982@gmail.com"
+    },
+    {
+      "Id": 45,
+      "DonVi": 10018,
+      "HoTen": "Lê Hoàng Chiếu",
+      "DienThoai": "0901046434",
+      "Email": "chieulh@gmail.com"
+    },
+    {
+      "Id": 46,
+      "DonVi": 10017,
+      "HoTen": "Nguyễn Đình Văn",
+      "DienThoai": "0915726787",
+      "Email": "vannguyen.pcbtr@gmail.com"
+    },
+    {
+      "Id": 47,
+      "DonVi": 10010,
+      "HoTen": "Phạm Minh Thanh",
+      "DienThoai": "0963355055",
+      "Email": "thanhpmt@gmail.com"
+    },
+    {
+      "Id": 48,
+      "DonVi": 10019,
+      "HoTen": "Nguyễn Thanh Tuấn",
+      "DienThoai": "0919513777",
+      "Email": "tuandlct@gmail.com"
+    },
+    {
+      "Id": 48,
+      "DonVi": 10009,
+      "HoTen": "Bùi Thế Mỹ",
+      "DienThoai": "",
+      "Email": "mybppc@gmail.com"
+    },
+    {
+      "Id": 49,
+      "DonVi": 10010,
+      "HoTen": "Võ Văn Cư",
+      "DienThoai": "",
+      "Email": "vovancu.2006@yahoo.com.vn"
+    },
+    {
+      "Id": 50,
+      "DonVi": 10011,
+      "HoTen": "Trương Quang Hoàng",
+      "DienThoai": "",
+      "Email": "truongquanghoangdlld@gmail.com"
+    },
+    {
+      "Id": 51,
+      "DonVi": 10012,
+      "HoTen": "Ngọc",
+      "DienThoai": "",
+      "Email": "lamminhngoc1983@yahoo.com.vn"
+    },
+    {
+      "Id": 52,
+      "DonVi": 10011,
+      "HoTen": "Lâm",
+      "DienThoai": "",
+      "Email": "lamsulp@gmail.com"
+    },
+    {
+      "Id": 53,
+      "DonVi": 10015,
+      "HoTen": "Đặng Hoài Bảo",
+      "DienThoai": "",
+      "Email": "baodh83@gmail.com"
+    },
+    {
+      "Id": 54,
+      "DonVi": 10016,
+      "HoTen": "Mạch Hoàng Sơn",
+      "DienThoai": "",
+      "Email": "sonmhpctg@gmail.com"
+    },
+    {
+      "Id": 55,
+      "DonVi": 10017,
+      "HoTen": "Nguyễn Thị Bích Ngọc",
+      "DienThoai": "",
+      "Email": "nguyenthibichngoc2303@gmail.com"
+    },
+    {
+      "Id": 56,
+      "DonVi": 10018,
+      "HoTen": "Trần Thanh Toàn",
+      "DienThoai": "",
+      "Email": "toanttvl@gmail.com"
+    },
+    {
+      "Id": 57,
+      "DonVi": 10019,
+      "HoTen": "Dũng",
+      "DienThoai": "",
+      "Email": "dungba1971@gmail.com"
+    },
+    {
+      "Id": 58,
+      "DonVi": 10020,
+      "HoTen": "Sơn",
+      "DienThoai": "",
+      "Email": "ctydlagson@gmail.com"
+    },
+    {
+      "Id": 59,
+      "DonVi": 10021,
+      "HoTen": "Trần Trung Tín",
+      "DienThoai": "",
+      "Email": "tinpckiengiang@gmail.com"
+    },
+    {
+      "Id": 60,
+      "DonVi": 10022,
+      "HoTen": "Khởi",
+      "DienThoai": "",
+      "Email": "khoi21266@gmail.com"
+    },
+    {
+      "Id": 61,
+      "DonVi": 10023,
+      "HoTen": "Trần Thu Phương",
+      "DienThoai": "",
+      "Email": "tran.thuphuong1983@gmail.com"
+    },
+    {
+      "Id": 62,
+      "DonVi": 10024,
+      "HoTen": "Huỳnh Hồng Hải",
+      "DienThoai": "",
+      "Email": "haihh.pctv@gmail.com"
+    },
+    {
+      "Id": 63,
+      "DonVi": 10025,
+      "HoTen": "Quách Văn Mười",
+      "DienThoai": "",
+      "Email": "quachvanmuoi@gmail.com"
+    },
+    {
+      "Id": 64,
+      "DonVi": 10028,
+      "HoTen": "Nguyễn Vũ Lâm",
+      "DienThoai": "",
+      "Email": "nguyenvulamhaugiang@gmail.com"
+    },
+    {
+      "Id": 65,
+      "DonVi": 10013,
+      "HoTen": "Mai Chí Thiện",
+      "DienThoai": "",
+      "Email": "thienmc.pctn@gmail.com"
+    },
+    {
+      "Id": 66,
+      "DonVi": 10029,
+      "HoTen": "Nguyễn Văn Thắng",
+      "DienThoai": "",
+      "Email": "nguyenthangepu@gmail.com"
+    },
+    {
+      "Id": 67,
+      "DonVi": 10023,
+      "HoTen": "Nguyệt",
+      "DienThoai": "",
+      "Email": "nguyetpmvt@gmail.com"
+    },
+    {
+      "Id": 68,
+      "DonVi": 10017,
+      "HoTen": "A.Thiệu",
+      "DienThoai": "",
+      "Email": "vanthieupcbt@gmail.com"
+    },
+    {
+      "Id": 69,
+      "DonVi": 10026,
+      "HoTen": "Lê Đức Thắng",
+      "DienThoai": "",
+      "Email": "thangld84@gmail.com"
+    },
+    {
+      "Id": 70,
+      "DonVi": 10021,
+      "HoTen": "Nguyễn Ngọc Tuyên",
+      "DienThoai": "",
+      "Email": "tuyennn.kg@evnspc.vn"
+    },
+    {
+      "Id": 71,
+      "DonVi": 10010,
+      "HoTen": "Lý Thanh Hải",
+      "DienThoai": "",
+      "Email": "lythanhhai84@yahoo.com.vn"
+    },
+    {
+      "Id": 72,
+      "DonVi": 10021,
+      "HoTen": "A Tuyên",
+      "DienThoai": "",
+      "Email": "nntuyen0302@gmail.com"
+    },
+    {
+      "Id": 73,
+      "DonVi": 10017,
+      "HoTen": "Võ Thị Hồng Nga",
+      "DienThoai": "",
+      "Email": "hongnga.btr@gmail.com"
+    },
+    {
+      "Id": 74,
+      "DonVi": 10017,
+      "HoTen": "Phạm Thanh Tùng",
+      "DienThoai": "",
+      "Email": "tunghung179@gmail.com"
+    },
+    {
+      "Id": 75,
+      "DonVi": 10017,
+      "HoTen": "Nguyễn Anh Tuấn",
+      "DienThoai": "",
+      "Email": "anhtuan19111987@gmail.com"
+    },
+    {
+      "Id": 76,
+      "DonVi": 10017,
+      "HoTen": "Nguyễn Duy Khánh ",
+      "DienThoai": "",
+      "Email": "khanh0719@gmail.com"
+    },
+    {
+      "Id": 77,
+      "DonVi": 10017,
+      "HoTen": "Phạm Văn Rum",
+      "DienThoai": "",
+      "Email": "rumphanvan@gmail.com"
+    },
+    {
+      "Id": 78,
+      "DonVi": 10017,
+      "HoTen": "Nguyễn Đình Văn",
+      "DienThoai": "",
+      "Email": "vannguyen.pcbtr@gmail.com"
+    },
+    {
+      "Id": 79,
+      "DonVi": 10017,
+      "HoTen": "Nguyễn Chí Trung",
+      "DienThoai": "",
+      "Email": "nctrungle@gmail.com"
+    },
+    {
+      "Id": 80,
+      "DonVi": 10017,
+      "HoTen": "Nguyễn Hữu Tâm; Nguyễn Văn Mạnh",
+      "DienThoai": "",
+      "Email": "nguyenmanhcl@gmail.com"
+    },
+    {
+      "Id": 81,
+      "DonVi": 10017,
+      "HoTen": "Nguyễn Văn Lợi",
+      "DienThoai": "",
+      "Email": "Loivtcnttt@gmail.com"
+    },
+    {
+      "Id": 82,
+      "DonVi": 10017,
+      "HoTen": "Đặng Văn Thiệu",
+      "DienThoai": "",
+      "Email": "vanthieupcbtr@gmail.com"
+    }
+  ],
+  "MoTa_ThacMac": [
+    {
+      "Id": 1,
+      "HeThong": 1,
+      "MoTa": "Dữ liệu TSVH bị thiếu",
+      "CachGiaiQuyet": "Kiểm tra lại dữ liệu, do IFC đồng bộ về thiếu, đã liên lạc lại với đơn vị giải thích"
+    },
+    {
+      "Id": 2,
+      "HeThong": 1,
+      "MoTa": "Hệ số TU/TI của điểm đo bị sai",
+      "CachGiaiQuyet": "Kiểm tra lại dữ liệu, do IFC đồng bộ về sai, đã liệ lạc lại với đơn vị giải thích vấn đề"
+    },
+    {
+      "Id": 3,
+      "HeThong": 1,
+      "MoTa": "Không đăng nhập được website",
+      "CachGiaiQuyet": "Do máy tính người dùng qua nhiều lớp mạng nên không phân giải được tên miền, đã gọi điện hướng dẫn đơn vị truy cập theo IP"
+    },
+    {
+      "Id": 4,
+      "HeThong": 1,
+      "MoTa": "Hỏi về cách tính Công suất trạm công cộng",
+      "CachGiaiQuyet": "Gọi điện trao đổi với đơn vị"
+    },
+    {
+      "Id": 5,
+      "HeThong": 1,
+      "MoTa": "Thiếu dữ liệu trong ngày",
+      "CachGiaiQuyet": "Kiểm tra lại database, do lỗi đồng bộ từ Primary sang Standby, đã gọi điện lại giải thích đơn vị"
+    },
+    {
+      "Id": 6,
+      "HeThong": 2,
+      "MoTa": "Không lấy được danh sách khách hàng đi kiểm tra",
+      "CachGiaiQuyet": "Đã gọi điện lại và xin thông tin teamview để kiểm tra, do mạng ở đơn vị chậm"
+    },
+    {
+      "Id": 7,
+      "HeThong": 2,
+      "MoTa": "Không đồng bộ được về SPC",
+      "CachGiaiQuyet": "Đã liên lại lại với đơn vị kiểm tra do đơn vị không dùng mạng nội bộ, đã giải thích với đơn vị"
+    },
+    {
+      "Id": 8,
+      "HeThong": 2,
+      "MoTa": "Không đồng bộ được về SPC",
+      "CachGiaiQuyet": "Do đơn vị bấm xuất file, nên yêu cầu đơn vị gửi file lên để IT đồng bộ"
+    },
+    {
+      "Id": 9,
+      "HeThong": 1,
+      "MoTa": "Thiếu điểm đo trạm công cộng",
+      "CachGiaiQuyet": "Tổng hợp gửi phòng ĐT"
+    },
+    {
+      "Id": 10,
+      "HeThong": 1,
+      "MoTa": "Thiếu điểm đo trạm chuyên dùng",
+      "CachGiaiQuyet": "Chuyển phòng Đt kiểm tra"
+    },
+    {
+      "Id": 11,
+      "HeThong": 1,
+      "MoTa": "Thiếu điểm đo trạm 110",
+      "CachGiaiQuyet": "Yêu cầu P.ĐT kiểm tra"
+    },
+    {
+      "Id": 12,
+      "HeThong": 1,
+      "MoTa": "Điểm đo TCC không đủ",
+      "CachGiaiQuyet": "Kiểm tra dữ liệu theo danh sách đơn vị gửi"
+    },
+    {
+      "Id": 13,
+      "HeThong": 1,
+      "MoTa": "Điểm đo TCC thiếu",
+      "CachGiaiQuyet": "Kiểm tra dữ liệu"
+    },
+    {
+      "Id": 14,
+      "HeThong": 1,
+      "MoTa": "TCC thiếu",
+      "CachGiaiQuyet": "Cần kiểm tra lại dữ liệu MdMs"
+    },
+    {
+      "Id": 15,
+      "HeThong": 1,
+      "MoTa": "TCD thiếu",
+      "CachGiaiQuyet": "mdms không đủ điểm đo theo đvi gửi, liên hệ DT ktra"
+    },
+    {
+      "Id": 16,
+      "HeThong": 1,
+      "MoTa": "TCD không đủ",
+      "CachGiaiQuyet": "kiểm tra lại mdms và do mdms đồng bộ chậm"
+    },
+    {
+      "Id": 17,
+      "HeThong": 1,
+      "MoTa": "Thiếu điểm TCD",
+      "CachGiaiQuyet": "Gửi DT kiểm tra"
+    },
+    {
+      "Id": 18,
+      "HeThong": 1,
+      "MoTa": "110 ko đủ",
+      "CachGiaiQuyet": "Chuyển phòng Đt kiểm tra"
+    },
+    {
+      "Id": 19,
+      "HeThong": 1,
+      "MoTa": "Trạm 110 không đủ",
+      "CachGiaiQuyet": "kiểm tra theo ds yêu cầu"
+    },
+    {
+      "Id": 20,
+      "HeThong": 1,
+      "MoTa": "Thiếu điểm trạm 110",
+      "CachGiaiQuyet": "mdms đồng bộ thiếu"
+    },
+    {
+      "Id": 22,
+      "HeThong": 1,
+      "MoTa": "Số điểm đo bị đúp",
+      "CachGiaiQuyet": "kiểm tra lại dữ liệu mdms, phantudiemdo"
+    },
+    {
+      "Id": 27,
+      "HeThong": 1,
+      "MoTa": "Cảnh báo ranh giới trùng TCC",
+      "CachGiaiQuyet": "cảnh báo đang gộp chung lại"
+    },
+    {
+      "Id": 28,
+      "HeThong": 1,
+      "MoTa": "Cảnh báo ranh giới cần để riêng 1 chức năng",
+      "CachGiaiQuyet": "đang xem xét tổ chức dl"
+    },
+    {
+      "Id": 29,
+      "HeThong": 1,
+      "MoTa": "Tu,Ti,HSN TCC thiếu",
+      "CachGiaiQuyet": "pđt đồng bộ thiếu"
+    },
+    {
+      "Id": 30,
+      "HeThong": 1,
+      "MoTa": "thông số cos, angle thiếu",
+      "CachGiaiQuyet": "yc phòng DT đồng bộ lại"
+    },
+    {
+      "Id": 31,
+      "HeThong": 1,
+      "MoTa": "tcc thiếu các thông số",
+      "CachGiaiQuyet": "liên lạc p DT kiểm tra dl"
+    },
+    {
+      "Id": 32,
+      "HeThong": 1,
+      "MoTa": "evnhes thiếu thông số",
+      "CachGiaiQuyet": "do đồng bộ từ DT"
+    },
+    {
+      "Id": 33,
+      "HeThong": 1,
+      "MoTa": "thiếu thông số evnhes",
+      "CachGiaiQuyet": "kiểm tra mdms và báo phòng DT"
+    },
+    {
+      "Id": 34,
+      "HeThong": 1,
+      "MoTa": "cos, angle, tu, ti, hsn cần bổ sung thêm",
+      "CachGiaiQuyet": "kiểm tra mdms"
+    },
+    {
+      "Id": 35,
+      "HeThong": 1,
+      "MoTa": "Cập nhật lại cảnh báo",
+      "CachGiaiQuyet": "Vào db chỉnh lại theo mô tả của đơn vị"
+    },
+    {
+      "Id": 35,
+      "HeThong": 1,
+      "MoTa": "Cập nhật lại cảnh báo",
+      "CachGiaiQuyet": "Vào db chỉnh lại theo mô tả của đơn vị"
+    },
+    {
+      "Id": 36,
+      "HeThong": 3,
+      "MoTa": "Chương trình Itron không có dữ liệu, nhưng MDAS lại có",
+      "CachGiaiQuyet": "Kiểm tra lại dữ liệu thì người dùng so sánh nhầm chức năng TSVH và LOADPROFILE"
+    },
+    {
+      "Id": 37,
+      "HeThong": 3,
+      "MoTa": "Chương trình Itron không có dữ liệu, nhưng MDAS lại có",
+      "CachGiaiQuyet": "Kiểm tra dữ liệu do hệ thống EVNHES đồng bộ về sau thời gian tool đồng bộ số liệu của Itron"
+    },
+    {
+      "Id": 38,
+      "HeThong": 3,
+      "MoTa": "Thay thế điểu đo trên Itron",
+      "CachGiaiQuyet": "Đã thực hiện thay thế điểm đo và chạy lại dữ liệu từ đầu năm theo yêu cầu"
+    },
+    {
+      "Id": 39,
+      "HeThong": 3,
+      "MoTa": "Thay thế điểu đo NCPT",
+      "CachGiaiQuyet": "Đã thực hiện thay thế điểm đo và chạy lại dữ liệu từ đầu năm theo yêu cầu"
+    },
+    {
+      "Id": 40,
+      "HeThong": 3,
+      "MoTa": "Số liệu ITRON khác so với đo xa",
+      "CachGiaiQuyet": "Gọi điện giải thích đơn vị do hệ thống EVNHES tự nhân HSN trong khi chưa có thống nhất với BanKD về vấn đề nhân HSN"
+    },
+    {
+      "Id": 41,
+      "HeThong": 3,
+      "MoTa": "Chạy lại số liệu ITRON ",
+      "CachGiaiQuyet": "Đã thực hiện chạy lại số liệu theo yêu cầu"
+    },
+    {
+      "Id": 42,
+      "HeThong": 3,
+      "MoTa": "ước lượng lại dữ liệu",
+      "CachGiaiQuyet": "Đã hướng dẫn đơn vị tự ước lượng dữ liệu"
+    },
+    {
+      "Id": 43,
+      "HeThong": 3,
+      "MoTa": "Thống kê số lượng điểm đo không có dữ liệu liên tục",
+      "CachGiaiQuyet": "Đã xuất Report và gửi đơn vị"
+    },
+    {
+      "Id": 44,
+      "HeThong": 3,
+      "MoTa": "Loadprofile số liệu < 0",
+      "CachGiaiQuyet": "Gọi điện giải thích đơn vị do công tơ VINASINO số liệu về chưa nhân HSN, cần phải có sự thống nhất vs BanKD thì SPCIT mới nhân HSN cho các điểm đo này"
+    },
+    {
+      "Id": 45,
+      "HeThong": 1,
+      "MoTa": "Lỗi Idm sai",
+      "CachGiaiQuyet": "Kiểm tra lại yêu cầu đơn vị cập nhật Công suất từ PMIS"
+    },
+    {
+      "Id": 46,
+      "HeThong": 1,
+      "MoTa": "Lỗi Idm sai",
+      "CachGiaiQuyet": "Kiểm tra lại do đơn vị khai báo trùng mã trạm bên PMIS"
+    },
+    {
+      "Id": 47,
+      "HeThong": 1,
+      "MoTa": "Thêm điểm đo Ranh giới",
+      "CachGiaiQuyet": "Đã hướng dẫn đơn vị tự thao tác thêm điểm đo ranh giới"
+    },
+    {
+      "Id": 48,
+      "HeThong": 1,
+      "MoTa": "Chỉnh lại cảnh báo truy thu",
+      "CachGiaiQuyet": "Đã kiểm tra dữ liệu và cập nhật lại nguyên nhân do đơn vị thao tác nhầm"
+    }
+  ]
+}

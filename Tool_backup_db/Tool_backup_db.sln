@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool_backup_db", "Tool_backup_db\Tool_backup_db.csproj", "{FD79146D-0EB0-435F-BF80-4F7AB7C070FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool_ATD", "Tool_ATD\Tool_ATD.csproj", "{1F6F728B-2499-4378-8A52-211C581DC109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD79146D-0EB0-435F-BF80-4F7AB7C070FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD79146D-0EB0-435F-BF80-4F7AB7C070FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD79146D-0EB0-435F-BF80-4F7AB7C070FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD79146D-0EB0-435F-BF80-4F7AB7C070FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6F728B-2499-4378-8A52-211C581DC109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6F728B-2499-4378-8A52-211C581DC109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6F728B-2499-4378-8A52-211C581DC109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6F728B-2499-4378-8A52-211C581DC109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B629FC1E-6796-4DD6-BE25-EFB65E97B93A}
+	EndGlobalSection
+EndGlobal
