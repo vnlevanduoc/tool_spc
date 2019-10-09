@@ -22,33 +22,53 @@
     },
     {
       "HoTen": "Huỳnh Thị Tố My",
-      "NickName": "Myhtt",
+      "NickName": "MyHTT",
       "TrinhDo": "Kỹ sư CNTT",
       "ChucDanhCongViec": "Nhân viên Lập trình,Triển khai,Đào tạo,Vận hành CSDL,Dịch vụ",
       "BacLuong": "2/8",
       "NoiDungCongViec": "Theo dõi vận hành, kiểm tra kết nối server, kiểm tra backup theo quy trinh 22 các hệ thống HRMS, Quản lý đầu tư xây dựng EVN.",
       "CongViecThucHien": "Theo dõi vận hành : Kiểm tra kết nối server, kiểm tra backup theo quy trình 22.",
       "TyLePhanTram": 0.3
+    },
+    {
+      "HoTen": "Lê Thị Hồng Vân",
+      "NickName": "Vanlth",
+      "TrinhDo": "Kỹ sư CNTT",
+      "ChucDanhCongViec": "Triển khai,Đào tạo,Vận hành CSDL,Dịch vụ",
+      "BacLuong": "2/8",
+      "NoiDungCongViec": "",
+      "CongViecThucHien": "Theo dõi vận hành : Kiểm tra kết nối server, kiểm tra backup theo quy trình 22.",
+      "TyLePhanTram": 0.5
+    },
+    {
+      "HoTen": "Lê Tân Tiến",
+      "NickName": "Tienlt",
+      "TrinhDo": "Kỹ sư CNTT",
+      "ChucDanhCongViec": "Tổ trưởng",
+      "BacLuong": "4/8",
+      "NoiDungCongViec": "",
+      "CongViecThucHien": "Theo dõi vận hành,sao lưu CSDL do nhóm phụ trách.",
+      "TyLePhanTram": 0.9
     }
   ],
   "Quy": [
     {
-      "Thang": "01/2019",
+      "Thang": "07/2019",
+      "NgayCong": 23,
+      "NgayBatDau": "01/07/2019",
+      "NgayKetThuc": "31/07/2019"
+    },
+    {
+      "Thang": "08/2019",
       "NgayCong": 22,
-      "NgayBatDau": "01/01/2019",
-      "NgayKetThuc": "31/01/2019"
+      "NgayBatDau": "01/08/2019",
+      "NgayKetThuc": "31/08/2019"
     },
     {
-      "Thang": "02/2019",
-      "NgayCong": 15,
-      "NgayBatDau": "01/02/2019",
-      "NgayKetThuc": "28/02/2019"
-    },
-    {
-      "Thang": "03/2019",
-      "NgayCong": 21,
-      "NgayBatDau": "01/03/2019",
-      "NgayKetThuc": "31/03/2019"
+      "Thang": "09/2019",
+      "NgayCong": 20,
+      "NgayBatDau": "01/09/2019",
+      "NgayKetThuc": "30/09/2019"
     }
   ]
 }

@@ -8,7 +8,6 @@ E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\DocumentFormat.OpenXml.dll
 E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\Newtonsoft.Json.dll
 E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\DocumentFormat.OpenXml.xml
 E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\bin\Debug\Newtonsoft.Json.xml
-E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\obj\Debug\Tool_ATD.csprojAssemblyReference.cache
 E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\obj\Debug\Tool_ATD.csproj.CopyComplete
 E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\obj\Debug\Tool_ATD.exe
 E:\SPCIT\tool_spc\Tool_backup_db\Tool_ATD\obj\Debug\Tool_ATD.pdb

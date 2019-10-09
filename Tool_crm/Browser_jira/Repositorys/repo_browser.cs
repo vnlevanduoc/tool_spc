@@ -97,7 +97,7 @@ namespace Browser_jira
                 //EditElement(chromeDriver, "priority-field", "Trung bình");
 
                 //Chọn người thực hiện assign-to-me-trigger
-                //ClickElement(chromeDriver, "id", "assign-to-me-trigger");
+                ClickElement(chromeDriver, "id", "assign-to-me-trigger");
 
                 //Nhấn gửi yêu cầu
                 ClickElement(chromeDriver, "id", "create-issue-submit");
